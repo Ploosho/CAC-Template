@@ -65,7 +65,7 @@
 
   @font-face {
     font-family: "Cascadia Code PL";
-    src: url("/assets/CascadiaCodePL.woff2");
+    src: url("assets/CascadiaCodePL.woff2");
   }
 
   * {

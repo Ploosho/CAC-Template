@@ -3,7 +3,7 @@ include_once "common.php";
 include_once "theme.php";
 ?>
 <ul>
-    <img src="https://catsarecute.xyz/logo.png" width="48px"/>
+    <img src="logo.png" width="48px"/>
     <li><a href="/contact.php" class="c">Contact</a></li>
     <li><a href="/home.php" class="c">Home</a></li>
     <li><a href="/about.php" class="c">About</a></li>
